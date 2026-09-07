@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#4338ca" />
+  <text x="32" y="27" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+  <line x1="16" y1="32" x2="48" y2="32" stroke="#fff" stroke-width="4" stroke-linecap="round" />
+  <text x="32" y="52" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+</svg>
